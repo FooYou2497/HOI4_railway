@@ -1,0 +1,1 @@
+eval_effect ROOT = { build_railway = { level = 5 build_only_on_allied = no fallback = yes path = { 1800 4670 } } build_railway = { level = 5 build_only_on_allied = no fallback = yes path = { 4670 12546 } } build_railway = { level = 5 build_only_on_allied = no fallback = yes path = { 12546 12616 } } }
